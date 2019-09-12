@@ -4,7 +4,10 @@
 
 ### Procedure Name
 
-### Time to execute
+
+⏱ 1 minute 
+✅ Validation included | required
+Risk:  👌  🤷‍  😱 
 
 ### Description
 
