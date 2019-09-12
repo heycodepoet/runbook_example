@@ -6,8 +6,10 @@
 
 
 ⏱ 1 minute 
+
 ✅ Validation included | required
-Risk:  👌  🤷‍  😱 
+
+Risk:  👌 | 🤷‍ | 😱 
 
 ### Description
 
